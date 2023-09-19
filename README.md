@@ -242,5 +242,5 @@ All the above options work well together.
 If you happen to use these repo we scored `158%`
 ### Authors &copy;
 
-- Nicks
-- Musa Parsanka
+- ABDELMOUNAIM OULAID
+- SAMIRA SIHAM
